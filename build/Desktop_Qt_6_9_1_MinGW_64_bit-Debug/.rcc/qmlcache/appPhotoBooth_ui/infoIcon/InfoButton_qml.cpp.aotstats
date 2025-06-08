@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 12,
+                        "durationMicroseconds": 665,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 13,
+                        "durationMicroseconds": 342,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 261,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 8
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 21,
+                        "durationMicroseconds": 232,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 23
+                    }
+                ],
+                "filePath": "D:/My Workspace/Qt&QML/Scratch/PhotoBooth/ui/infoIcon/InfoButton.qml"
+            }
+        ],
+        "moduleId": "PhotoBooth(appPhotoBooth)"
+    }
+]

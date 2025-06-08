@@ -1,0 +1,12 @@
+-I
+D:/My Workspace/Qt&QML/Scratch/PhotoBooth/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug
+-I
+C:/Qt/6.9.1/mingw_64/qml
+--resource
+D:/My Workspace/Qt&QML/Scratch/PhotoBooth/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qmake_PhotoBooth.qrc
+--resource
+D:/My Workspace/Qt&QML/Scratch/PhotoBooth/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appPhotoBooth_raw_qml_0.qrc
+--resource
+D:/My Workspace/Qt&QML/Scratch/PhotoBooth/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appPhotoBooth_raw_qml_0_extra_qmldirs.qrc
+--module
+PhotoBooth

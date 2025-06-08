@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 357,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 7
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 13
+                    }
+                ],
+                "filePath": "D:/My Workspace/Qt&QML/Scratch/PhotoBooth/ui/mainScreen/MainScreen.qml"
+            }
+        ],
+        "moduleId": "PhotoBooth(appPhotoBooth)"
+    }
+]

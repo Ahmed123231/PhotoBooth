@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/qt/qml/PhotoBooth/">
+    <file alias="Main.qml">D:/My Workspace/Qt&amp;QML/Scratch/PhotoBooth/Main.qml</file>
+    <file alias="ui/wcScreen/WcScreen.qml">D:/My Workspace/Qt&amp;QML/Scratch/PhotoBooth/ui/wcScreen/WcScreen.qml</file>
+    <file alias="ui/startButton/StartButton.qml">D:/My Workspace/Qt&amp;QML/Scratch/PhotoBooth/ui/startButton/StartButton.qml</file>
+    <file alias="ui/appTitle/AppTitle.qml">D:/My Workspace/Qt&amp;QML/Scratch/PhotoBooth/ui/appTitle/AppTitle.qml</file>
+    <file alias="ui/infoIcon/InfoButton.qml">D:/My Workspace/Qt&amp;QML/Scratch/PhotoBooth/ui/infoIcon/InfoButton.qml</file>
+    <file alias="ui/welcomeScreen/WelcomeScreen.qml">D:/My Workspace/Qt&amp;QML/Scratch/PhotoBooth/ui/welcomeScreen/WelcomeScreen.qml</file>
+    <file alias="ui/mainScreen/MainScreen.qml">D:/My Workspace/Qt&amp;QML/Scratch/PhotoBooth/ui/mainScreen/MainScreen.qml</file>
+  </qresource>
+</RCC>
+

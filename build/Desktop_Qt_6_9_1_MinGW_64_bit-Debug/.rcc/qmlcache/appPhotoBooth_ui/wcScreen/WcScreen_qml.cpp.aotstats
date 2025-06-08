@@ -1,0 +1,84 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 12,
+                        "durationMicroseconds": 772,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 13,
+                        "durationMicroseconds": 366,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 255,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 8
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 18,
+                        "durationMicroseconds": 216,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 9
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 184,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 164,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 199,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 243,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 216,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 19
+                    }
+                ],
+                "filePath": "D:/My Workspace/Qt&QML/Scratch/PhotoBooth/ui/wcScreen/wcScreen.qml"
+            }
+        ],
+        "moduleId": "PhotoBooth(appPhotoBooth)"
+    }
+]

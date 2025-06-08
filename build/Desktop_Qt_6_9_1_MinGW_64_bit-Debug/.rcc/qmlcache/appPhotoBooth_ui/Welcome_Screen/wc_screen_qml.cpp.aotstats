@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": false,
+                        "column": 13,
+                        "durationMicroseconds": 5002,
+                        "errorMessage": "Cannot access value for name black",
+                        "functionName": "color",
+                        "line": 9
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 246,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 6
+                    }
+                ],
+                "filePath": "D:/My Workspace/Qt&QML/Scratch/PhotoBooth/ui/Welcome_Screen/wc_screen.qml"
+            }
+        ],
+        "moduleId": "PhotoBooth(appPhotoBooth)"
+    }
+]

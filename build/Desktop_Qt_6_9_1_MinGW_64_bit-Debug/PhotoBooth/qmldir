@@ -1,0 +1,11 @@
+module PhotoBooth
+typeinfo appPhotoBooth.qmltypes
+prefer :/qt/qml/PhotoBooth/
+Main 1.0 Main.qml
+WcScreen 1.0 ui/wcScreen/WcScreen.qml
+StartButton 1.0 ui/startButton/StartButton.qml
+AppTitle 1.0 ui/appTitle/AppTitle.qml
+InfoButton 1.0 ui/infoIcon/InfoButton.qml
+WelcomeScreen 1.0 ui/welcomeScreen/WelcomeScreen.qml
+MainScreen 1.0 ui/mainScreen/MainScreen.qml
+

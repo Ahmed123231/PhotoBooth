@@ -1,0 +1,148 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 30,
+                        "durationMicroseconds": 651,
+                        "errorMessage": "",
+                        "functionName": "isHovered",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 164,
+                        "errorMessage": "",
+                        "functionName": "isDown",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 12,
+                        "durationMicroseconds": 355,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 13,
+                        "durationMicroseconds": 287,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 12,
+                        "durationMicroseconds": 676,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 14,
+                        "durationMicroseconds": 246,
+                        "errorMessage": "",
+                        "functionName": "opacity",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 15,
+                        "durationMicroseconds": 196,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 158,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 41,
+                        "durationMicroseconds": 338,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenterOffset",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 328,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 294,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 285,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 290,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 200,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 30,
+                        "durationMicroseconds": 299,
+                        "errorMessage": "",
+                        "functionName": "rightMargin",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 278,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 292,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 58
+                    }
+                ],
+                "filePath": "D:/My Workspace/Qt&QML/Scratch/PhotoBooth/ui/startButton/StartButton.qml"
+            }
+        ],
+        "moduleId": "PhotoBooth(appPhotoBooth)"
+    }
+]

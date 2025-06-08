@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/PhotoBooth">D:/My Workspace/Qt&QML/Scratch/PhotoBooth/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/PhotoBooth</file>
+
+  </qresource>
+</RCC>

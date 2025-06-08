@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/qt/qml/PhotoBooth/">
+    <file alias="ui/wcScreen/qmldir">D:/My Workspace/Qt&amp;QML/Scratch/PhotoBooth/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/PhotoBooth/ui/wcScreen/qmldir</file>
+    <file alias="ui/startButton/qmldir">D:/My Workspace/Qt&amp;QML/Scratch/PhotoBooth/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/PhotoBooth/ui/startButton/qmldir</file>
+    <file alias="ui/appTitle/qmldir">D:/My Workspace/Qt&amp;QML/Scratch/PhotoBooth/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/PhotoBooth/ui/appTitle/qmldir</file>
+    <file alias="ui/infoIcon/qmldir">D:/My Workspace/Qt&amp;QML/Scratch/PhotoBooth/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/PhotoBooth/ui/infoIcon/qmldir</file>
+    <file alias="ui/welcomeScreen/qmldir">D:/My Workspace/Qt&amp;QML/Scratch/PhotoBooth/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/PhotoBooth/ui/welcomeScreen/qmldir</file>
+    <file alias="ui/mainScreen/qmldir">D:/My Workspace/Qt&amp;QML/Scratch/PhotoBooth/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/PhotoBooth/ui/mainScreen/qmldir</file>
+  </qresource>
+</RCC>
+
