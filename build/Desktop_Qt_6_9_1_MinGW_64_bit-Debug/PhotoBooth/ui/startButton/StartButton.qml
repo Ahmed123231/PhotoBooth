@@ -17,7 +17,7 @@ Rectangle {
 
     // --- Appearance ---
     width: parent.width * 0.309
-    height: parent.height * 0.1625
+    height: (parent.height * 0.1625)/1.5
     radius: 105
     clip: true // Clip contents to the rounded shape
 
@@ -35,7 +35,7 @@ Rectangle {
         anchors.horizontalCenterOffset: -(parent.width * 0.07)
 
         text: buttonRoot.text
-        font.pixelSize: buttonRoot.height * 0.25
+        font.pixelSize: (buttonRoot.height * 0.25)*1.5
         font.family: "Montserrat"
         font.bold: true
         color: "#0A5F63"
@@ -43,8 +43,8 @@ Rectangle {
 
     Image {
         id: rightArrow
-        width: parent.width * 0.1011
-        height: parent.height * 0.341
+        width: (parent.width * 0.1011)
+        height: (parent.height * 0.341)*1.5
         source: "file:///D:/My Workspace/Qt&QML/Scratch/PhotoBooth/ui/assets/rightArrow.png"
 
         anchors.verticalCenter: parent.verticalCenter

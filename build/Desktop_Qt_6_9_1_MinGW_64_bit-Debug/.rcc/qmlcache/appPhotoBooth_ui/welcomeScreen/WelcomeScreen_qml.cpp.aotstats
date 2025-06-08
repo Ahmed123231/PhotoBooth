@@ -6,98 +6,82 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 351,
+                        "durationMicroseconds": 454,
                         "errorMessage": "",
                         "functionName": "fill",
-                        "line": 14
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 27,
-                        "durationMicroseconds": 79,
-                        "errorMessage": "",
-                        "functionName": "centerIn",
-                        "line": 23
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 39,
-                        "durationMicroseconds": 289,
-                        "errorMessage": "",
-                        "functionName": "verticalCenterOffset",
-                        "line": 24
+                        "line": 13
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 173,
+                        "durationMicroseconds": 557,
                         "errorMessage": "",
                         "functionName": "onClicked",
-                        "line": 35
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 35,
-                        "durationMicroseconds": 174,
-                        "errorMessage": "",
-                        "functionName": "horizontalCenter",
-                        "line": 29
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 22,
-                        "durationMicroseconds": 137,
-                        "errorMessage": "",
-                        "functionName": "top",
-                        "line": 30
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 28,
-                        "durationMicroseconds": 186,
-                        "errorMessage": "",
-                        "functionName": "topMargin",
                         "line": 32
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 35,
-                        "durationMicroseconds": 156,
+                        "durationMicroseconds": 360,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
-                        "line": 41
+                        "line": 26
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 22,
-                        "durationMicroseconds": 144,
+                        "durationMicroseconds": 255,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 42
+                        "line": 27
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 28,
-                        "durationMicroseconds": 155,
+                        "durationMicroseconds": 364,
                         "errorMessage": "",
                         "functionName": "topMargin",
-                        "line": 44
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 204,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 238,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 519,
+                        "errorMessage": "",
+                        "functionName": "topMargin",
+                        "line": 41
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 160,
+                        "durationMicroseconds": 218,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 49
+                        "line": 46
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 25,
-                        "durationMicroseconds": 124,
+                        "durationMicroseconds": 210,
                         "errorMessage": "",
                         "functionName": "bottom",
-                        "line": 50
+                        "line": 47
                     }
                 ],
                 "filePath": "D:/My Workspace/Qt&QML/Scratch/PhotoBooth/ui/welcomeScreen/WelcomeScreen.qml"

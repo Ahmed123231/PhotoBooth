@@ -8,4 +8,12 @@ AppTitle 1.0 ui/appTitle/AppTitle.qml
 InfoButton 1.0 ui/infoIcon/InfoButton.qml
 WelcomeScreen 1.0 ui/welcomeScreen/WelcomeScreen.qml
 MainScreen 1.0 ui/mainScreen/MainScreen.qml
+CameraControlPanel 1.0 ui/CameraControlPanel/CameraControlPanel.qml
+CameraCaptureButton 1.0 ui/CameraCaptureButton/CameraCaptureButton.qml
+CameraPrintButton 1.0 ui/CameraPrintButton/CameraPrintButton.qml
+ResetCameraButton 1.0 ui/ResetCameraButton/ResetCameraButton.qml
+QrCanva 1.0 ui/QrCanva/QrCanva.qml
+VideoCaptureControlButton 1.0 ui/videoCaptureControl/VideoCaptureControlButton.qml
+LeftSidePanel 1.0 ui/LeftSidePanel/LeftSidePanel.qml
+HomeButton 1.0 ui/HomeButton/HomeButton.qml
 

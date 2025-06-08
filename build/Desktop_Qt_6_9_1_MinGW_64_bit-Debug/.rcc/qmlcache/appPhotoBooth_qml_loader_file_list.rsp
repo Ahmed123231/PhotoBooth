@@ -11,3 +11,11 @@ D:/My Workspace/Qt&QML/Scratch/PhotoBooth/build/Desktop_Qt_6_9_1_MinGW_64_bit-De
 /qt/qml/PhotoBooth/ui/infoIcon/InfoButton.qml
 /qt/qml/PhotoBooth/ui/welcomeScreen/WelcomeScreen.qml
 /qt/qml/PhotoBooth/ui/mainScreen/MainScreen.qml
+/qt/qml/PhotoBooth/ui/CameraControlPanel/CameraControlPanel.qml
+/qt/qml/PhotoBooth/ui/CameraCaptureButton/CameraCaptureButton.qml
+/qt/qml/PhotoBooth/ui/CameraPrintButton/CameraPrintButton.qml
+/qt/qml/PhotoBooth/ui/ResetCameraButton/ResetCameraButton.qml
+/qt/qml/PhotoBooth/ui/QrCanva/QrCanva.qml
+/qt/qml/PhotoBooth/ui/videoCaptureControl/VideoCaptureControlButton.qml
+/qt/qml/PhotoBooth/ui/LeftSidePanel/LeftSidePanel.qml
+/qt/qml/PhotoBooth/ui/HomeButton/HomeButton.qml

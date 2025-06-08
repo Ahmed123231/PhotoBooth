@@ -7,7 +7,7 @@ Rectangle{
     id:logoHolder
     anchors.horizontalCenter: parent.horizontalCenter
     anchors.top: parent.top
-    anchors.topMargin: 20
+    anchors.topMargin: 10
     width: parent.width * 0.3125
     height: parent.height * 0.277
     color: "black"

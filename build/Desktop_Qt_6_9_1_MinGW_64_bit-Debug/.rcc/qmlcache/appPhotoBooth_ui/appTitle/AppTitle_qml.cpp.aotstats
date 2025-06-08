@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 22,
-                        "durationMicroseconds": 664,
+                        "durationMicroseconds": 675,
                         "errorMessage": "",
                         "functionName": "pixelSize",
                         "line": 7

@@ -54,6 +54,62 @@ namespace _qt_qml_PhotoBooth_ui_mainScreen_MainScreen_qml {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
+namespace _qt_qml_PhotoBooth_ui_CameraControlPanel_CameraControlPanel_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_PhotoBooth_ui_CameraCaptureButton_CameraCaptureButton_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_PhotoBooth_ui_CameraPrintButton_CameraPrintButton_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_PhotoBooth_ui_ResetCameraButton_ResetCameraButton_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_PhotoBooth_ui_QrCanva_QrCanva_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_PhotoBooth_ui_videoCaptureControl_VideoCaptureControlButton_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_PhotoBooth_ui_LeftSidePanel_LeftSidePanel_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_PhotoBooth_ui_HomeButton_HomeButton_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
 
 }
 namespace {
@@ -75,6 +131,14 @@ Registry::Registry() {
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/PhotoBooth/ui/infoIcon/InfoButton.qml"), &QmlCacheGeneratedCode::_qt_qml_PhotoBooth_ui_infoIcon_InfoButton_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/PhotoBooth/ui/welcomeScreen/WelcomeScreen.qml"), &QmlCacheGeneratedCode::_qt_qml_PhotoBooth_ui_welcomeScreen_WelcomeScreen_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/PhotoBooth/ui/mainScreen/MainScreen.qml"), &QmlCacheGeneratedCode::_qt_qml_PhotoBooth_ui_mainScreen_MainScreen_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/PhotoBooth/ui/CameraControlPanel/CameraControlPanel.qml"), &QmlCacheGeneratedCode::_qt_qml_PhotoBooth_ui_CameraControlPanel_CameraControlPanel_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/PhotoBooth/ui/CameraCaptureButton/CameraCaptureButton.qml"), &QmlCacheGeneratedCode::_qt_qml_PhotoBooth_ui_CameraCaptureButton_CameraCaptureButton_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/PhotoBooth/ui/CameraPrintButton/CameraPrintButton.qml"), &QmlCacheGeneratedCode::_qt_qml_PhotoBooth_ui_CameraPrintButton_CameraPrintButton_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/PhotoBooth/ui/ResetCameraButton/ResetCameraButton.qml"), &QmlCacheGeneratedCode::_qt_qml_PhotoBooth_ui_ResetCameraButton_ResetCameraButton_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/PhotoBooth/ui/QrCanva/QrCanva.qml"), &QmlCacheGeneratedCode::_qt_qml_PhotoBooth_ui_QrCanva_QrCanva_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/PhotoBooth/ui/videoCaptureControl/VideoCaptureControlButton.qml"), &QmlCacheGeneratedCode::_qt_qml_PhotoBooth_ui_videoCaptureControl_VideoCaptureControlButton_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/PhotoBooth/ui/LeftSidePanel/LeftSidePanel.qml"), &QmlCacheGeneratedCode::_qt_qml_PhotoBooth_ui_LeftSidePanel_LeftSidePanel_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/PhotoBooth/ui/HomeButton/HomeButton.qml"), &QmlCacheGeneratedCode::_qt_qml_PhotoBooth_ui_HomeButton_HomeButton_qml::unit);
     QQmlPrivate::RegisterQmlUnitCacheHook registration;
     registration.structVersion = 0;
     registration.lookupCachedQmlUnit = &lookupCachedUnit;

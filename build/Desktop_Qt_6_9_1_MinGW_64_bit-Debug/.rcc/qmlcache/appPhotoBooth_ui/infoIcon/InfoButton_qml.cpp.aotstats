@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 12,
-                        "durationMicroseconds": 665,
+                        "durationMicroseconds": 986,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 17
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 13,
-                        "durationMicroseconds": 342,
+                        "durationMicroseconds": 292,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 18
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 261,
+                        "durationMicroseconds": 318,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 8
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 21,
-                        "durationMicroseconds": 232,
+                        "durationMicroseconds": 280,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 13
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 138,
+                        "durationMicroseconds": 153,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 23

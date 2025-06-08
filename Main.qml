@@ -1,5 +1,3 @@
-// In Main.qml
-
 import QtQuick
 import QtQuick.Controls
 
@@ -8,22 +6,23 @@ ApplicationWindow {
     visible: true
     width: 1280
     height: 720
-    title: "PhotoBooth"
+    title: "aevenda PhotoBooth"
 
     StackView {
         id: stackView
         anchors.fill: parent
 
-        // Use Qt.resolvedUrl() for a more reliable way to load local files.
-        // It resolves the path relative to THIS file (Main.qml).
-        initialItem: Qt.resolvedUrl("ui/welcomeScreen/WelcomeScreen.qml")
 
+        // --- CORRECTED PATHS ---
+        // Add the full prefix that the build system is using.
+        initialItem: "qrc:/qt/qml/PhotoBooth/ui/welcomeScreen/WelcomeScreen.qml"
+        replaceEnter: Transition {}
+        replaceExit: Transition {}
         Connections {
             target: stackView.currentItem
 
             onGetStartedClicked: {
-                // Use the same method for pushing the next screen.
-                stackView.replace(Qt.resolvedUrl("ui/mainAppScreen/MainAppScreen.qml"))
+                stackView.replace("qrc:/qt/qml/PhotoBooth/ui/mainScreen/MainScreen.qml")
             }
             ignoreUnknownSignals: true
         }

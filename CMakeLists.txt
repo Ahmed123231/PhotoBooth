@@ -23,6 +23,14 @@ qt_add_qml_module(appPhotoBooth
         QML_FILES ui/infoIcon/InfoButton.qml
         QML_FILES ui/welcomeScreen/WelcomeScreen.qml
         QML_FILES ui/mainScreen/MainScreen.qml
+        QML_FILES ui/CameraControlPanel/CameraControlPanel.qml
+        QML_FILES ui/CameraCaptureButton/CameraCaptureButton.qml
+        QML_FILES ui/CameraPrintButton/CameraPrintButton.qml
+        QML_FILES ui/ResetCameraButton/ResetCameraButton.qml
+        QML_FILES ui/QrCanva/QrCanva.qml
+        QML_FILES ui/videoCaptureControl/VideoCaptureControlButton.qml
+        QML_FILES ui/LeftSidePanel/LeftSidePanel.qml
+        QML_FILES ui/HomeButton/HomeButton.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

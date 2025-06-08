@@ -1,8 +1,8 @@
 import QtQuick
-import "../ui/wcScreen"
-import "../ui/startButton"
-import "../ui/appTitle"
-import "../ui/infoIcon"
+import "qrc:/qt/qml/PhotoBooth/ui/wcScreen/"
+import "qrc:/qt/qml/PhotoBooth/ui/startButton/"
+import "qrc:/qt/qml/PhotoBooth/ui/appTitle/"
+import "qrc:/qt/qml/PhotoBooth/ui/infoIcon/"
 
 Rectangle {
     id: welcomeRoot
@@ -10,7 +10,6 @@ Rectangle {
     // This is the signal that will tell the main window to switch views.
     signal getStartedClicked
 
-    // Change 2: Fill the container (the StackView) instead of having a fixed size.
     anchors.fill: parent
 
     // The background color is preserved.
@@ -18,10 +17,8 @@ Rectangle {
 
     WcScreen {
         id: logoHolder
-        // You may need to adjust the positioning of this now that the parent isn't a fixed-size window.
-        // Anchoring to the parent's center is often a good starting point.
-        anchors.centerIn: parent
-        anchors.verticalCenterOffset: -parent.height * 0.1 // Nudge it up slightly
+        //anchors.centerIn: parent
+        //anchors.verticalCenterOffset: -parent.height * 0.1 // Nudge it up slightly
     }
 
     StartButton {

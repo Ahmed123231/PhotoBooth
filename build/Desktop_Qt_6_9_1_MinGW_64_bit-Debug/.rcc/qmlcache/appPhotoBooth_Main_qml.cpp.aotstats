@@ -5,24 +5,16 @@
                 "entries": [
                     {
                         "codegenSuccessful": false,
-                        "column": 22,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"initialItem\".",
-                        "functionName": "initialItem",
-                        "line": 19
-                    },
-                    {
-                        "codegenSuccessful": false,
                         "column": 23,
                         "durationMicroseconds": 0,
                         "errorMessage": "Could not find property \"fill\".",
                         "functionName": "fill",
-                        "line": 15
+                        "line": 13
                     },
                     {
                         "codegenSuccessful": false,
                         "column": 21,
-                        "durationMicroseconds": 178,
+                        "durationMicroseconds": 353,
                         "errorMessage": "Cannot retrieve a non-object type by ID: stackView",
                         "functionName": "target",
                         "line": 22
