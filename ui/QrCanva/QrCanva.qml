@@ -16,6 +16,6 @@ Rectangle {
     // This margin will now correctly push the item down from the top
     anchors.topMargin: parent.height * 0.639
     // The color now responds to our custom state properties
-    color: D9D9D9
+    color: "#D9D9D9"
 
 }

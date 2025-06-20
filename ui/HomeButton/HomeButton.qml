@@ -18,6 +18,7 @@ Rectangle
     // The color now responds to our custom state properties
     color: "black"
 
+    signal clicked
 
 
     Image {
@@ -32,7 +33,8 @@ Rectangle
 
     // --- Interaction ---
     MouseArea {
-
+        anchors.fill: parent
+        onClicked: homeButton.clicked()
     }
 
 

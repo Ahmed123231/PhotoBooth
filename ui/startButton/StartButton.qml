@@ -22,7 +22,7 @@ Rectangle {
     clip: true // Clip contents to the rounded shape
 
     // The color now responds to our custom state properties
-    color: isDown ? "#7ABBC0" : (isHovered ? "#8CCED1" : "#A3E3E6")
+    color: isDown ? "FDF519" : (isHovered ? "#f5ce42" : "#FDF519")
     opacity: enabled ? 1 : 0.3
 
 
@@ -36,9 +36,9 @@ Rectangle {
 
         text: buttonRoot.text
         font.pixelSize: (buttonRoot.height * 0.25)*1.5
-        font.family: "Montserrat"
+        font.family: "Inter"
         font.bold: true
-        color: "#0A5F63"
+        color: "#000000"
     }
 
     Image {
