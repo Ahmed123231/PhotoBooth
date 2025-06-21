@@ -7,10 +7,14 @@ Rectangle {
     id: photoPreviewScreen
     anchors.fill: parent
     color: "black"
+    signal goBackButtonClicked
+
 
     GenImgOneCanva{}
     GenImgTwoCanva{}
-    GoBackButton{}
+    GoBackButton{
+        onClicked: photoPreviewScreen.goBackButtonClicked()
+    }
     Text{
         id:photoPreviewPageTitleId
         color : "#FFFFFF"

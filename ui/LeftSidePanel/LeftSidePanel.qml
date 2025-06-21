@@ -9,6 +9,7 @@ Rectangle
     color: "black"
     anchors.left: parent.left
     signal homeButtonClicked
+    signal goToGenImgsClicked
     HomeButton{
         id: homeButton
         anchors.top: parent.top
@@ -17,6 +18,8 @@ Rectangle
 
         onClicked: leftSidePanel.homeButtonClicked()
     }
-    ImagePreviewCanva{}
+    ImagePreviewCanva{
+        onClicked: leftSidePanel.goToGenImgsClicked()
+    }
 
 }

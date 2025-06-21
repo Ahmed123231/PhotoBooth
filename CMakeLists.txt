@@ -36,6 +36,7 @@ qt_add_qml_module(appPhotoBooth
         QML_FILES ui/GenImgOneCanva/GenImgOneCanva.qml
         QML_FILES ui/GenImgTwoCanva/GenImgTwoCanva.qml
         QML_FILES ui/GoBackButton/GoBackButton.qml
+        QML_FILES ui/CameraPreviewCanva/CameraPreviewCanva.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
